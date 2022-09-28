@@ -75,4 +75,4 @@ function log(type: LogType, item: QueueItem, time: { diff: number, start: number
 ```
 # Bugs, glitches and issues
 
-If you encounter any problems feel free to open an issue in our <a href="https://github.com/meister03/discord-hybrid-sharding/issues">GitHub repository 
+If you encounter any problems feel free to open an issue in our <a href="https://github.com/meister03/puppeteer-task-speed/issues">GitHub repository 
