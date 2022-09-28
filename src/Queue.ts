@@ -15,7 +15,7 @@ export interface QueueItem {
 }
 
 export interface QueueOptions {
-    /** Whether the spawn queue be automatically managed */
+    /** Whether the spawn queue is managed automatically */
     auto: boolean;
     /** Time to wait until next item */
     timeout?: number;
