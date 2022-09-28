@@ -1,7 +1,7 @@
 {
   "name": "puppeteer-task-speed",
   "version": "1.0.0",
-  "description": "Measures the task speed for each puppeteer execution task",
+  "description": "Measures the speed for each puppeteer execution task",
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
