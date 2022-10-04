@@ -5,6 +5,13 @@
 
 Util Package to measure the speed for each puppeteer execution.
 
+# askyourcode.com
+Navigating through the entire puppeteer codebase to create this package was hard. I used askyourcode.com to ask questions and locate certain functions inside puppeteer. This is how it works:
+
+<demo video>
+
+If you are interested in this package or any other puppeteer one, you should check it out, it's free and saved me a ton of time.
+
 ## API Reference
 ### QueueOptions
 | Property      | Description                         |
