@@ -3,12 +3,34 @@
   "version": "1.0.0",
   "description": "Measures the speed for each puppeteer execution task",
   "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/meister03/puppeteer-task-speed.git"
+  },
+  "publishConfig": {
+      "access": "public"
+  },
+  "keywords": [
+      "puppeteer",
+      "task",
+      "speed",
+      "perfomance",
+      "puppeteer-queue",
+      "puppeteer-perfomance",
+      "puppeteer-speed",
+      "puppeteer-task"
+  ],
+  "author": "meister03",
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/meister03/puppeteer-task-speed/issues"
+  },
+  "homepage": "https://github.com/meister03/puppeteer-task-speed#readme",
   "devDependencies": {
-    "@types/node": "^18.7.23"
+      "@types/node": "^18.7.18"
   }
 }
